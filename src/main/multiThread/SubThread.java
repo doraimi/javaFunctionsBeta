@@ -1,4 +1,4 @@
-package multiThread;
+package main.multiThread;
 
 public class SubThread extends Thread{
 	private int startFlg;

@@ -1,4 +1,4 @@
-package aHashMapAndCacheImplement;
+package main.aHashMapAndCacheImplement;
 
 public class test1 {
 

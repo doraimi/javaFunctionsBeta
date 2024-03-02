@@ -1,4 +1,4 @@
-package redis;
+package main.redis;
 
 import java.util.List;
 import java.util.Set;

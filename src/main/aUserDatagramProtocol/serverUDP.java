@@ -1,4 +1,4 @@
-package aUserDatagramProtocol;
+package main.aUserDatagramProtocol;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

@@ -1,4 +1,4 @@
-package redis.bitMapAndCounter;
+package main.redis.bitMapAndCounter;
 
 import java.util.BitSet;
 

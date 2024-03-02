@@ -1,4 +1,4 @@
-package kafkaTester;
+package main.kafkaTester;
 
 import org.apache.kafka.clients.consumer.*;
 import java.time.Duration;

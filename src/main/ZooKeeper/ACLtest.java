@@ -1,4 +1,4 @@
-package ZooKeeper;
+package main.ZooKeeper;
 
 import org.apache.zookeeper.ZooDefs;
 import org.apache.zookeeper.data.ACL;

@@ -1,4 +1,4 @@
-package multiThread;
+package main.multiThread;
 //import multiThread.SubThread;
 public class multiThreadTester20240228 {
 
