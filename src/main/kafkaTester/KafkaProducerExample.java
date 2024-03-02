@@ -1,4 +1,4 @@
-package kafkaTester;
+package main.kafkaTester;
 
 import java.util.Properties;
 

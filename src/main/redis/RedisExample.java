@@ -1,4 +1,4 @@
-package redis;
+package main.redis;
 
 /**
 首先，您需要在 Maven 或 Gradle 中添加 Redis 客户端库的依赖，例如 Jedis：

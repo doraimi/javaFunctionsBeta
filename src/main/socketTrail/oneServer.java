@@ -1,4 +1,4 @@
-package socketTrail;
+package main.socketTrail;
 
 import java.io.BufferedReader;
 import java.io.IOException;
